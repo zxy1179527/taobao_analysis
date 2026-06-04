@@ -35,10 +35,11 @@ Python · Pandas · NumPy · Matplotlib · Seaborn
 ## 项目文件树
 ```text
 taobao_analysis/
-├── notebook/                       # Jupyter 数据清洗与挖掘核心流水线
+├── notebook/                       # Jupyter 数据分析
 │   ├── traffic_timeseries.ipynb # 流量、时序与大盘转化率分析
-│   ├── retention_path.ipynb    # 用户流失、留存与动态复购策略
+│   ├── retention_path.ipynb     # 用户流失、留存与动态复购策略
 │   └── rfm_products.ipynb       # 精细化CRM分层、商品爆款诊断与交叉销售
+├── preprocessing.py # 数据清洗、采样与底表生成
 └── outputs/ 
     ├── 01_daily_traffic_trend.png
     ├── 02_hourly_behavior_timeseries.jpg
