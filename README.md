@@ -13,7 +13,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn
    - 每日 UV/PV 及人均 PV 趋势
      ![每日流量趋势](outputs/01_daily_traffic_trend.png)
    - 24 小时行为分布
-     ![24小时行为时序](outputs/02_hourly_behavior_timeseries.jpg)
+     ![24小时行为时序](outputs/02_hourly_behavior_timeseries.png)
    - 全站浏览→购买转化漏斗
      ![活跃用户漏斗](outputs/03_user_conversion_funnel.png)
 
